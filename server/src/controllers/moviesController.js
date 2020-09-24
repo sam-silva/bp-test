@@ -86,7 +86,7 @@ const editMovie = async (req, res) => {
                 ...movies.results.slice(index + 1)
             ]
 
-            fs.writeFile(`./files/${Date.now()}.txt`, movies, 'utf8', function (err) {
+            fs.writeFile(`./files/${Date.now()}.txt`, JSON.stringify(movies), 'utf8', function (err) {
                 if (err) return console.log(err);
             });
 
