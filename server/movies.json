@@ -1,0 +1,1379 @@
+{
+	"count": 3280,
+	"next": "http://showtimes.everyday.in.th/api/v2/movie/?limit=20&offset=20",
+	"previous": null,
+	"results": [
+		{
+			"id": 19836,
+			"title": "Black Panther II",
+			"language": "en",
+			"release_date": "2022-05-05",
+			"details": [
+				{
+					"id": 5030,
+					"language": "th",
+					"title": "Black Panther II",
+					"director": "Ryan Coogler",
+					"tagline": "",
+					"cast": "",
+					"storyline": "ติดตามเรื่องย่อไทยได้เร็วๆ นี้"
+				}
+			],
+			"tags": [],
+			"videos": [
+				{
+					"url": "https://youtu.be/ebish97e8rY",
+					"source": "#S",
+					"kind": "Trailer",
+					"language": "th"
+				}
+			],
+			"images": [
+				{
+					"id": 33524,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/4efbfc563d806c695d6390308e059a00a14d877e.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094347Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=d35c1098b651a7faae6ab8e5b85d52d99afcacaaa090df0a2d0eb09abf8da756",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/4efbfc563d806c695d6390308e059a00a14d877e-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094347Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=ab86b0b837c13441a66688e287e7b35213967e8eac7d04c002fd29a3f823561e",
+					"favs": 0
+				},
+				{
+					"id": 33525,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/08a19b0ec1ec230deaeac6924b80dc7f82ffca6e.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094347Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=b24b8df9e75ce891c4da3c14c5cd834af66c72fb96d052db4dc7d8b74021642f",
+					"type": "Backdrop",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/08a19b0ec1ec230deaeac6924b80dc7f82ffca6e-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094347Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=ef19a2fe453f844aabfa9420ae98b1060fec789353fa65c85a7dc7e557e266f4",
+					"favs": 0
+				}
+			],
+			"collections": [
+				{
+					"id": 2,
+					"name": "Marvel Universe",
+					"slug": "marvel-universe",
+					"movies": [
+						19836,
+						18220,
+						18221,
+						18219,
+						18218,
+						18217,
+						18418,
+						17391,
+						17515,
+						10233,
+						10231,
+						15063,
+						14907,
+						10232,
+						10237,
+						10238,
+						12285,
+						10236,
+						10235,
+						10477,
+						10234,
+						5655,
+						113,
+						70,
+						5406,
+						5407,
+						16302,
+						18301,
+						5405,
+						5408,
+						16312,
+						18300,
+						18298,
+						18299
+					]
+				}
+			],
+			"watches": 0,
+			"duration": 0,
+			"active_screens": 0,
+			"vote_score": { "avg": 0, "score": 0, "total": 0 },
+			"fav_movie": { "star": false, "follow": false, "watched": false },
+			"stars": 0
+		},
+		{
+			"id": 19925,
+			"title": "Black Adam",
+			"language": "-",
+			"release_date": "2021-12-22",
+			"details": [
+				{
+					"id": 5138,
+					"language": "th",
+					"title": "Black Adam",
+					"director": "Jaume Collet-Serra",
+					"tagline": "",
+					"cast": "Dwayne Johnson, Noah Centineo",
+					"storyline": "ติดตามเรื่องย่อไทยได้เร็วๆ นี้"
+				}
+			],
+			"tags": null,
+			"videos": [
+				{
+					"url": "https://youtu.be/7FkfqTNm01w",
+					"source": "#S",
+					"kind": "Trailer",
+					"language": "th"
+				}
+			],
+			"images": [
+				{
+					"id": 34557,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/09/7dbb10da35d040da2c0178213cdc724b15b7f18e.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094347Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=659206ce0db50b258af6c07543b096ec2f984448f404f69dfe8904860cd758a1",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/09/7dbb10da35d040da2c0178213cdc724b15b7f18e-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094347Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=ff69b2e055fdfe7ef79722fc61492aa1a3744f9ba78beecff96dacc06710bb81",
+					"favs": 0
+				},
+				{
+					"id": 34591,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/09/c53d0910924387f30627bd599068046d25c8e9fd.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094347Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=c5055219fb2c1c8a074a7f508d081ede476cc29f40e7f3446085b2c6e4aa5898",
+					"type": "Backdrop",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/09/c53d0910924387f30627bd599068046d25c8e9fd-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094347Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=2b84229aa481baef44d1a8a041581f28b42e2132377cf1969d79dd800ab88bab",
+					"favs": 0
+				}
+			],
+			"collections": [],
+			"watches": 0,
+			"duration": 0,
+			"active_screens": 0,
+			"vote_score": { "avg": 0, "score": 0, "total": 0 },
+			"fav_movie": { "star": false, "follow": false, "watched": false },
+			"stars": 0
+		},
+		{
+			"id": 19835,
+			"title": "Avatar 2",
+			"language": "-",
+			"release_date": "2021-12-16",
+			"details": [
+				{
+					"id": 5089,
+					"language": "en",
+					"title": "Avatar 2",
+					"director": "",
+					"tagline": "",
+					"cast": "",
+					"storyline": "A sequel to Avatar (2009)."
+				},
+				{
+					"id": 5029,
+					"language": "th",
+					"title": "Avatar 2",
+					"director": "James Cameron",
+					"tagline": "",
+					"cast": "",
+					"storyline": "โปรดติดตามเรื่องย่อเร็วๆ นี้"
+				}
+			],
+			"tags": null,
+			"videos": [
+				{
+					"url": "https://youtu.be/7FkfqTNm01w",
+					"source": "#S",
+					"kind": "Trailer",
+					"language": "th"
+				}
+			],
+			"images": [
+				{
+					"id": 34296,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/08/cd2ff8c81f97b1b3325841b84b198177cdd6eab0.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094347Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=a61af1efaa183acbaf5fa560dd25d6a50c8448ac47d6bd3292817d06f6046749",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/08/cd2ff8c81f97b1b3325841b84b198177cdd6eab0-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094347Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=ee92996b6eda5872e31fb197d5b50392809853e93ac7dbf46ead5018dc43ec99",
+					"favs": 0
+				},
+				{
+					"id": 33522,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/09aa7c147809844d347d7c1e1db513d2a16164be.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094347Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=f590a2f4a3a8c8ba3f79937d633fed0ea0d83355e13fdcb8ca86c6bd44be6970",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/09aa7c147809844d347d7c1e1db513d2a16164be-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094347Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=aa97a51de5c4fd8af6a90b953500329170c585cf1957bd138f864fda432e6c04",
+					"favs": 0
+				},
+				{
+					"id": 33523,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/aaace19b416b83e105b891de7bdb859c6a52f3dd.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=4ffecad515f7b5af5ef29623f2cf6091eae299cc5348b9c823aeadb1717ba4ec",
+					"type": "Backdrop",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/aaace19b416b83e105b891de7bdb859c6a52f3dd-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=7ba761634bc32b3b80b2fd5d0fcab47fc7e65c93aeb598da7fbba25a96877462",
+					"favs": 0
+				}
+			],
+			"collections": [],
+			"watches": 0,
+			"duration": 0,
+			"active_screens": 0,
+			"vote_score": { "avg": 0, "score": 0, "total": 0 },
+			"fav_movie": { "star": false, "follow": false, "watched": false },
+			"stars": 0
+		},
+		{
+			"id": 19536,
+			"title": "Fantastic Beasts 3",
+			"language": "en",
+			"release_date": "2021-11-11",
+			"details": [
+				{
+					"id": 4720,
+					"language": "en",
+					"title": "Fantastic Beasts And Where To Find Them 3",
+					"director": "David Yates",
+					"tagline": "",
+					"cast": "Eddie Redmayne, Johnny Depp, Jessica Williams, Jude Law, Ezra Miller, Alison Sudol, Dan Fogler, Katherine Waterston",
+					"storyline": "The third installment of the 'Fantastic Beasts and Where to Find Them' series which follows the adventures of Newt Scamander.\nCredit:imdb"
+				}
+			],
+			"tags": [],
+			"videos": [],
+			"images": [
+				{
+					"id": 34260,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/08/14f409d67a3ef4dc5741458fcaeb42f408cd5135.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=04f279a867b743f3b758209f320dde06473caa990f778e903e48c38d91a7071d",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/08/14f409d67a3ef4dc5741458fcaeb42f408cd5135-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=a9418aae092c334871077863990f5a8968935dd883730612aaa07959a6114b2a",
+					"favs": 0
+				}
+			],
+			"collections": [
+				{
+					"id": 61,
+					"name": "Fantastic Beasts",
+					"slug": "fantastic-beasts",
+					"movies": [19536, 16550, 10486]
+				}
+			],
+			"watches": 0,
+			"duration": 0,
+			"active_screens": 0,
+			"vote_score": { "avg": 0, "score": 0, "total": 0 },
+			"fav_movie": { "star": false, "follow": false, "watched": false },
+			"stars": 0
+		},
+		{
+			"id": 18220,
+			"title": "Doctor Strange in the Multiverse of Madness",
+			"language": "en",
+			"release_date": "2021-11-04",
+			"details": [
+				{
+					"id": 4301,
+					"language": "th",
+					"title": "Doctor Strange In The Multiverse Of Madness",
+					"director": "Scott Derrickson",
+					"tagline": "",
+					"cast": "Benedict Cumberbatch, Elizabeth Olsen, Benedict Wong",
+					"storyline": "Marvel Studios’ Doctor Strange in the Multiverse of Madness starring Benedict Cumberbatch as Stephen Strange with Scott Derrickson returning as director. But joining Doctor Strange this time around will be the Scarlet Witch, played by Elizabeth Olsen. In another twist, the events of Doctor Strange in the Multiverse of Madness will connect with the Disney+ series Marvel Studios' WandaVision."
+				},
+				{
+					"id": 4348,
+					"language": "en",
+					"title": "Doctor Strange In the Multiverse of Madness",
+					"director": "Scott Derrickson",
+					"tagline": "",
+					"cast": "Benedict Cumberbatch, Elizabeth Olsen, Benedict Wong, Chiwetel Ejiofor",
+					"storyline": "The sequel to Doctor Strange (2016)."
+				}
+			],
+			"tags": [],
+			"videos": [
+				{
+					"url": "https://youtu.be/ebish97e8rY",
+					"source": "#S",
+					"kind": "Trailer",
+					"language": "th"
+				}
+			],
+			"images": [
+				{
+					"id": 34295,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/08/6df0c0e4901cd0097da27c45db730deef3113652.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=62c504220920cd9cd811efec99cb9ec31f7831fc214314a7a0991311f4413270",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/08/6df0c0e4901cd0097da27c45db730deef3113652-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=bc5657a41b35d5f4266eafe185c74613c0f5c664dc6e6a4a677b5c5106ad5e0f",
+					"favs": 0
+				},
+				{
+					"id": 33520,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/6e2e26a620d7961fb24e11e53d1171a7ada2a568.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=1d827cd53d4dc3e42812c8148da712171e8dafd001d2480b3122e305336e3008",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/6e2e26a620d7961fb24e11e53d1171a7ada2a568-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=7fa468358cae2c2faf14f7e7e8dc2aa8b32ce516324139fecc7def21eeada425",
+					"favs": 0
+				},
+				{
+					"id": 33521,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/7f53ecc678801fcbc87635ef0ad79ddc52ed51e7.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=02d82d1e8186667d17d89c6b68e3d2a475e2b183479c2b1b240dce3605a3d40d",
+					"type": "Backdrop",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/7f53ecc678801fcbc87635ef0ad79ddc52ed51e7-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=3aa51768a125fd6f593946991a6caf5067f66908b03b28a82a4ebe4c09a3b044",
+					"favs": 0
+				}
+			],
+			"collections": [
+				{
+					"id": 2,
+					"name": "Marvel Universe",
+					"slug": "marvel-universe",
+					"movies": [
+						19836,
+						18220,
+						18221,
+						18219,
+						18218,
+						18217,
+						18418,
+						17391,
+						17515,
+						10233,
+						10231,
+						15063,
+						14907,
+						10232,
+						10237,
+						10238,
+						12285,
+						10236,
+						10235,
+						10477,
+						10234,
+						5655,
+						113,
+						70,
+						5406,
+						5407,
+						16302,
+						18301,
+						5405,
+						5408,
+						16312,
+						18300,
+						18298,
+						18299
+					]
+				}
+			],
+			"watches": 0,
+			"duration": 0,
+			"active_screens": 0,
+			"vote_score": { "avg": 0, "score": 0, "total": 0 },
+			"fav_movie": { "star": false, "follow": false, "watched": false },
+			"stars": 0
+		},
+		{
+			"id": 18221,
+			"title": "Thor Love and Thunder",
+			"language": "en",
+			"release_date": "2021-11-03",
+			"details": [
+				{
+					"id": 4349,
+					"language": "en",
+					"title": "Thor: Love and Thunder",
+					"director": "Taika Waititi",
+					"tagline": "",
+					"cast": "Chris Hemsworth, Natalie Portman, Tessa Thompson, Jeff Goldblum, Taika Waititi",
+					"storyline": "The fourth installment of the Marvel Studios' Thor movie series."
+				},
+				{
+					"id": 4302,
+					"language": "th",
+					"title": "Thor Love And Thunder",
+					"director": "Taika Waititi",
+					"tagline": "",
+					"cast": "Chris Hemsworth, Tessa Thompson, Natalie Portman",
+					"storyline": "It was also revealed that someone from Thor's story will return to the MCU -- Natalie Portman will return for Marvel Studios’ Thor: Love and Thunder, joining stars Chris Hemsworth and Tessa Thompson. Taika Waititi returns as director, and he confirmed that Jane Foster will become the Mighty Thor, goddess of Thunder."
+				}
+			],
+			"tags": [],
+			"videos": [
+				{
+					"url": "https://youtu.be/ebish97e8rY",
+					"source": "#S",
+					"kind": "Trailer",
+					"language": "th"
+				}
+			],
+			"images": [
+				{
+					"id": 34294,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/08/ae100f0021c5e5a47719b8991bd7f9fe52fdd57e.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=8522cfce5570305f3b122640b234841c6dcf62bb53334a577e6041843cfb1be9",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/08/ae100f0021c5e5a47719b8991bd7f9fe52fdd57e-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=1701b1c1a29f1288979564d06dd7e8914cf29be7264cefa88c690c91521e0439",
+					"favs": 0
+				},
+				{
+					"id": 33518,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/e27d02f2fea6668483fe36139a12b3571489ca98.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=006fb694f9e8babd11cc3ba7fbe99d0322f3da30fa20d49f8d0992b3634375d9",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/e27d02f2fea6668483fe36139a12b3571489ca98-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=4f938904fc7d3ea364a88249603faddccbd9037cfa49eed8777af67c695b5878",
+					"favs": 0
+				},
+				{
+					"id": 33519,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/c552e4901260e6462a62b67ccb911ba64aacd022.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=feff243a31c221a524ccd7f0cd30e630f04aa91b468ea1937c2edf9cf9dcdd5e",
+					"type": "Backdrop",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/c552e4901260e6462a62b67ccb911ba64aacd022-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=47541b4b569bc32fc1f62f1cdedbaea969761db4de9043dede47387198db2600",
+					"favs": 0
+				}
+			],
+			"collections": [
+				{
+					"id": 2,
+					"name": "Marvel Universe",
+					"slug": "marvel-universe",
+					"movies": [
+						19836,
+						18220,
+						18221,
+						18219,
+						18218,
+						18217,
+						18418,
+						17391,
+						17515,
+						10233,
+						10231,
+						15063,
+						14907,
+						10232,
+						10237,
+						10238,
+						12285,
+						10236,
+						10235,
+						10477,
+						10234,
+						5655,
+						113,
+						70,
+						5406,
+						5407,
+						16302,
+						18301,
+						5405,
+						5408,
+						16312,
+						18300,
+						18298,
+						18299
+					]
+				}
+			],
+			"watches": 0,
+			"duration": 0,
+			"active_screens": 0,
+			"vote_score": { "avg": 0, "score": 0, "total": 0 },
+			"fav_movie": { "star": false, "follow": false, "watched": false },
+			"stars": 0
+		},
+		{
+			"id": 19539,
+			"title": "Uncharted",
+			"language": "en",
+			"release_date": "2021-10-21",
+			"details": [
+				{
+					"id": 5028,
+					"language": "th",
+					"title": "Uncharted",
+					"director": "Ruben Fleischer",
+					"tagline": "",
+					"cast": "Mark Wahlberg, Tom Holland, Antonio Banderas",
+					"storyline": "โปรดติดตามเรื่องย่อเร็ว ๆ นี้"
+				},
+				{
+					"id": 4723,
+					"language": "en",
+					"title": "Uncharted",
+					"director": "Travis Knight",
+					"tagline": "",
+					"cast": "Tom Holland, Mark Wahlberg",
+					"storyline": "The story is a prequel to the games, starring Holland as a younger Drake, showing us details of how he came to meet and befriend Sully.\nCredit:imdb"
+				}
+			],
+			"tags": [],
+			"videos": [
+				{
+					"url": "https://youtu.be/7FkfqTNm01w",
+					"source": "#S",
+					"kind": "Trailer",
+					"language": "th"
+				}
+			],
+			"images": [
+				{
+					"id": 30241,
+					"url": "https://showtimesth.s3.amazonaws.com/2019/12/18f3a9674192624c7cd1da96aa7c7a0f471146af.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=88ab2f78cea70c02416ae8f7ec404965bae08704cbcbf92ade04ebf9ec540fbd",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2019/12/18f3a9674192624c7cd1da96aa7c7a0f471146af-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=cfd3510b9ff2704e3a7316d12911ebd554073606fe6b93326a10ad1a3afbc802",
+					"favs": 0
+				},
+				{
+					"id": 33516,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/f30d2ac8eab94134165393e54d2cccbbe0914bdf.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=2ded06820f7db297951f06625fd8b07be916c39b03ea4bea6d673c2fa2f8721b",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/f30d2ac8eab94134165393e54d2cccbbe0914bdf-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=4f287f80e67134698fbf8fc63ba791766650a8a76c18f7dd107a455b3a99ae12",
+					"favs": 0
+				},
+				{
+					"id": 33517,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/a56c350f3fd67ead5855f8ee63db04fc6183b678.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=cac9aed662fe8d2a7bb17dbf7cad48cd17ea85957927a8c6deb9559f0c780a59",
+					"type": "Backdrop",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/a56c350f3fd67ead5855f8ee63db04fc6183b678-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=b869e682c5bcda4a0e340d6443a59f19fc1dfa94bdf8b1a71f979a56fa82edfa",
+					"favs": 0
+				}
+			],
+			"collections": [],
+			"watches": 0,
+			"duration": 0,
+			"active_screens": 0,
+			"vote_score": { "avg": 0, "score": 0, "total": 0 },
+			"fav_movie": { "star": false, "follow": false, "watched": false },
+			"stars": 0
+		},
+		{
+			"id": 19885,
+			"title": "The Batman",
+			"language": "en",
+			"release_date": "2021-10-01",
+			"details": [
+				{
+					"id": 5134,
+					"language": "th",
+					"title": "The Batman",
+					"director": "Matt Reeves",
+					"tagline": "",
+					"cast": "Zoë Kravitz, Colin Farrell, Robert Pattinson",
+					"storyline": "ติดตามเรื่องย่อไทยได้เร็วๆ นี้"
+				},
+				{
+					"id": 5092,
+					"language": "en",
+					"title": "The Batman",
+					"director": "Matt Reeves",
+					"tagline": "",
+					"cast": "Robert Pattinson, Zoë Kravitz, Paul Dano, Jeffrey Wright, Andy Serkis, Colin Farrell, John Turturro, Peter Sarsgaard, Barry Keoghan",
+					"storyline": ""
+				}
+			],
+			"tags": [],
+			"videos": [
+				{
+					"url": "https://youtu.be/YbRauvXZT7o",
+					"source": "#1 th-caption",
+					"kind": "Trailer",
+					"language": "en"
+				}
+			],
+			"images": [
+				{
+					"id": 34537,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/09/77df809c09fd3f8a772394dfd7a85acb651351cd.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=a6a9076ce7e566986bb7285262a345167a8c14eb3ad24ce4766ce007f94f05d8",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/09/77df809c09fd3f8a772394dfd7a85acb651351cd-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=0d12b1965a8896d14e5a4507a155dd432827760a2225b9290c32369344226269",
+					"favs": 0
+				},
+				{
+					"id": 34425,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/09/5cbfe1c74064e3149e8952d3cc1bbe9a34274aa3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=65de9f463dcce0b74da91c43191ceb8d48fa043a0c28d948f3bd22da91f4721b",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/09/5cbfe1c74064e3149e8952d3cc1bbe9a34274aa3-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=5ab2e74683115a0f0578725e3d7f27cb82ef2ad0c3a38c7ee0d3e62f4648b1a3",
+					"favs": 0
+				},
+				{
+					"id": 34538,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/09/701eac623ad9b98039b530d018e47d434b4cd6a4.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=01d194e1c1ab8db41962df1b61cd1f9dc0931245995d9d79a15d0143433c5bcc",
+					"type": "Backdrop",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/09/701eac623ad9b98039b530d018e47d434b4cd6a4-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=b3db19cc9c28dd10f26e4c6a32ef9c52a23625249f3352337c722d52a70d3c5e",
+					"favs": 0
+				}
+			],
+			"collections": [],
+			"watches": 0,
+			"duration": 0,
+			"active_screens": 0,
+			"vote_score": { "avg": 0, "score": 0, "total": 0 },
+			"fav_movie": { "star": false, "follow": false, "watched": false },
+			"stars": 0
+		},
+		{
+			"id": 18404,
+			"title": "The Hitman's Wife's Bodyguard",
+			"language": "en",
+			"release_date": "2021-08-20",
+			"details": [
+				{
+					"id": 4428,
+					"language": "en",
+					"title": "The Hitman S Wife S Bodyguard",
+					"director": "Patrick Hughes",
+					"tagline": "",
+					"cast": "Ryan Reynolds, Samuel L. Jackson, Salma Hayek, Antonio Banderas, Morgan Freeman, Richard E. Grant, Frank Grillo, Blake Ritson, Gabriella Wright",
+					"storyline": "Sequel to the 2017 action/comedy."
+				}
+			],
+			"tags": [],
+			"videos": [],
+			"images": [
+				{
+					"id": 34015,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/08/7b1e56e22f1eb32300cd0a96ebf8084ca808708a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=614709a13e63644a6f6397a858b20e97d23684ac1d1beff5c83f1113fe94b818",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/08/7b1e56e22f1eb32300cd0a96ebf8084ca808708a-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=e124b88f85ca1057e54e5d3c7739a24ce459ce4576082ec113d39c9f70956874",
+					"favs": 0
+				},
+				{
+					"id": 26314,
+					"url": "https://showtimesth.s3.amazonaws.com/2019/09/7ce168765e4391cb7d22eda6b6c0b270ea9a6833.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=f92f49b6e5b5a9cafac9087b4f71c3f8261bcad3d6c60f52ced7965729a788fc",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2019/09/7ce168765e4391cb7d22eda6b6c0b270ea9a6833-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=3a548b9e607c89eb18cd2ee444ec4d0cf95d6ae2f9ac22f3c7c51a89ac65ff53",
+					"favs": 0
+				},
+				{
+					"id": 34014,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/08/e5d0c26c8204a8f17467cd05e86ee4c9926ec3a8.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=e69f3a267882d43de649033f3099c64d0c919dbde155b82516763f5a7ea9ff78",
+					"type": "Backdrop",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/08/e5d0c26c8204a8f17467cd05e86ee4c9926ec3a8-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=36e64398c76da43dfe8b37f3611b8dcc1a4a589cf4ff62660e67e46625866a1b",
+					"favs": 0
+				}
+			],
+			"collections": [],
+			"watches": 0,
+			"duration": 0,
+			"active_screens": 0,
+			"vote_score": { "avg": 0, "score": 0, "total": 0 },
+			"fav_movie": { "star": false, "follow": false, "watched": false },
+			"stars": 0
+		},
+		{
+			"id": 19834,
+			"title": "The Suicide Squad",
+			"language": "en",
+			"release_date": "2021-08-05",
+			"details": [
+				{
+					"id": 5093,
+					"language": "en",
+					"title": "The Suicide Squad",
+					"director": "James Gunn",
+					"tagline": "",
+					"cast": "Margot Robbie, Idris Elba, John Cena, Joel Kinnaman, Jai Courtney, Peter Capaldi, Alice Braga, Pete Davidson, David Dastmalchian",
+					"storyline": "The continuing escapades of the Suicide Squad."
+				},
+				{
+					"id": 5027,
+					"language": "th",
+					"title": "The Suicide Squad",
+					"director": "James Gunn",
+					"tagline": "",
+					"cast": "Margot Robbie, John Cena, Taika Waititi, Idris Elba, Viola Davis",
+					"storyline": "ติดตามเรื่องย่อไทยได้เร็วๆ นี้"
+				}
+			],
+			"tags": [],
+			"videos": [
+				{
+					"url": "https://youtu.be/sYr9VBIIcbk",
+					"source": "#0 th-caption",
+					"kind": "Teaser",
+					"language": "en"
+				}
+			],
+			"images": [
+				{
+					"id": 34310,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/08/5df4c9be0f880fcd62cb993cb7cc02f421b8c000.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=f10de7727a430cb6c4405f3399a0e343c9ce0f892aaf179190d37b5b63cb651e",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/08/5df4c9be0f880fcd62cb993cb7cc02f421b8c000-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=85455afac856b51c50579265d5ab4396d43c73322bc1254bb5aff06715fa5902",
+					"favs": 0
+				},
+				{
+					"id": 33514,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/fb347efede4b959bba9b170578127a42e99f2fd9.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=30a5e2800e3bf85ad8d2b7064cce81e72cc6b483a8f664c6e75f9b762ab3cf73",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/fb347efede4b959bba9b170578127a42e99f2fd9-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=e65dfe58e06e47da4b6db5fbb27df518561843d7a840b967f3d853b00a54bd05",
+					"favs": 0
+				},
+				{
+					"id": 34306,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/08/aaa1ad7509b719450b84ff485221550e1c1a2028.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=28db4b6a5af7df9cffe6ac506f14f873972f245547739ef49ceca45e2b062911",
+					"type": "Backdrop",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/08/aaa1ad7509b719450b84ff485221550e1c1a2028-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=c7d9d8bc2b3744ff594f792de5b144649fbc36f726745dbf61326c1164e003d7",
+					"favs": 0
+				}
+			],
+			"collections": [],
+			"watches": 0,
+			"duration": 0,
+			"active_screens": 0,
+			"vote_score": { "avg": 0, "score": 0, "total": 0 },
+			"fav_movie": { "star": false, "follow": false, "watched": false },
+			"stars": 0
+		},
+		{
+			"id": 18557,
+			"title": "Jungle Cruise",
+			"language": "en",
+			"release_date": "2021-07-28",
+			"details": [
+				{
+					"id": 4553,
+					"language": "en",
+					"title": "Jungle Cruise",
+					"director": "Jaume Collet-Serra",
+					"tagline": "",
+					"cast": "Dwayne Johnson, Emily Blunt, Jack Whitehall, Edgar Ramírez, Jesse Plemons, Paul Giamatti, Dani Rovira",
+					"storyline": "Disney’s live-action adaptation of its iconic theme park ride."
+				},
+				{
+					"id": 4546,
+					"language": "th",
+					"title": "Jungle Cruise",
+					"director": "Jaume Collet-Serra",
+					"tagline": "",
+					"cast": "Dwayne Johnson, Emily Blunt, Edgar Ramírez",
+					"storyline": "กรกฎาคม  มันส์แน่! เมื่อเดอะร็อค และเอมิลี่ บลันท์จะพาคุณล่องเรือผจญภัยไปตามล่าขุมทรัพย์ในตำนาน จากเครื่องเล่นสุดฮิตสู่หนังฟอร์มยักษ์แห่งปีหน้า จากผู้สร้าง Pirates of The Caribbean ชมตัวอย่างแรกจาก Disney’s Jungle Cruise ผจญภัยล่องป่ามหัศจรรย์ แล้วพบกัน"
+				}
+			],
+			"tags": [],
+			"videos": [
+				{
+					"url": "https://youtu.be/ydnzilTiBcY",
+					"source": "#1",
+					"kind": "Trailer",
+					"language": "en"
+				}
+			],
+			"images": [
+				{
+					"id": 28391,
+					"url": "https://showtimesth.s3.amazonaws.com/2019/10/401afc9acf7b07ed0e7ebd36aa16d49000cb90c4.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=0fe1a41a7f09426a69f79b2782143d10c1c64245d4b0e7286a5856e55ae6d080",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2019/10/401afc9acf7b07ed0e7ebd36aa16d49000cb90c4-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=4188aea9fabe354c368194a80e5b7430f9bff7ef924fdf9786b1a7ef65e7dab9",
+					"favs": 0
+				},
+				{
+					"id": 33512,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/e209dc31c23a60b35781a2b44bc9e43f4dc1faf9.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=cbdfc24fd43aaf62c8c65edb07f50c609e40621d079cf8d3f45a405abc52c16c",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/e209dc31c23a60b35781a2b44bc9e43f4dc1faf9-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=6fc557031ec17edfb128e13b591e98cd9819ce569bdfdd475b91b63b55bce3c3",
+					"favs": 0
+				},
+				{
+					"id": 33513,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/560dceb19651be02d607c38f23bd8939ba5be8c6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=24d04b4bc8718295cfe74bf4f9fcc1e1371e7c3a03a8f5a380502fe9472e4954",
+					"type": "Backdrop",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/560dceb19651be02d607c38f23bd8939ba5be8c6-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=8aaeaa5abce357621d6e12436a0ffdc5a97c06fbef55a98b34aa3dad8d561602",
+					"favs": 0
+				}
+			],
+			"collections": [],
+			"watches": 0,
+			"duration": 0,
+			"active_screens": 0,
+			"vote_score": { "avg": 0, "score": 0, "total": 0 },
+			"fav_movie": { "star": false, "follow": false, "watched": false },
+			"stars": 0
+		},
+		{
+			"id": 18690,
+			"title": "Minions: The Rise of Gru",
+			"language": "en",
+			"release_date": "2021-07-01",
+			"details": [
+				{
+					"id": 4867,
+					"language": "th",
+					"title": "มินเนี่ยน 2",
+					"director": "Kyle Balda, Brad Ableson",
+					"tagline": "",
+					"cast": "Steve Carell, Pierre Coffin",
+					"storyline": "ภาคต่อของภาพยนตร์แอนิเมชั่นที่ทำรายได้สูงสุดตลอดกาลในประเทศไทย Minions"
+				},
+				{
+					"id": 4631,
+					"language": "en",
+					"title": "Minions The Rise Of Gru",
+					"director": "Kyle Balda",
+					"tagline": "",
+					"cast": "Pierre Coffin",
+					"storyline": "The continuation of the adventures of the Minions, always in search of a tyrannical leader. Credit:imdb"
+				}
+			],
+			"tags": [],
+			"videos": [
+				{
+					"url": "https://youtu.be/dvB87sYsEdo",
+					"source": "#S",
+					"kind": "Trailer",
+					"language": "th"
+				}
+			],
+			"images": [
+				{
+					"id": 31522,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/02/31e3f75fb16b9ea85b10e4abd1703cd231c27643.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=b5e227db02badcd6b90097702958a8f5d8ca7ac126daf7e00f46fffa60dcfdd1",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/02/31e3f75fb16b9ea85b10e4abd1703cd231c27643-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=45c6a0e36c03f2a59119b3a1d9ce829f87e287abd916d076375d0183c1749152",
+					"favs": 0
+				},
+				{
+					"id": 33510,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/8e94989deb320c73be1a7e5747e7b46b47e08a8a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=f7e360d84a3bccf91c0592a68b07579b5b2044e5926cb178877af222d9f53579",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/8e94989deb320c73be1a7e5747e7b46b47e08a8a-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=acb34ccd2b3808ea30a5ae4173207ebed9c90e0d8c1a903d634e0cb81275628c",
+					"favs": 0
+				},
+				{
+					"id": 33511,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/61f25614dec28e61049621783ff8d7583cf38d91.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=5347cc113b0d86495e8bae926701cd9a348f94c5809e2d8d2d3efb4272a86334",
+					"type": "Backdrop",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/61f25614dec28e61049621783ff8d7583cf38d91-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=3825692e481740eeb9ef36063b9d15adb77209de964c3902d61e82bdb5931689",
+					"favs": 0
+				}
+			],
+			"collections": [
+				{ "id": 3, "name": "Minions", "slug": "minions", "movies": [18690, 5411, 111, 5410, 5409] }
+			],
+			"watches": 0,
+			"duration": 0,
+			"active_screens": 0,
+			"vote_score": { "avg": 0, "score": 0, "total": 0 },
+			"fav_movie": { "star": false, "follow": false, "watched": false },
+			"stars": 0
+		},
+		{
+			"id": 19588,
+			"title": "Venom: Let There Be Carnage",
+			"language": "en",
+			"release_date": "2021-06-25",
+			"details": [
+				{
+					"id": 5144,
+					"language": "en",
+					"title": "Venom: Let There Be Carnage",
+					"director": "Andy Serkis",
+					"tagline": "",
+					"cast": "Tom Hardy, Woody Harrelson, Michelle Williams, Reid Scott, Naomie Harris, Stephen Graham, Tom Holland, J.K. Simmons",
+					"storyline": "Sequel to the box-office hit film \"Venom.\""
+				},
+				{
+					"id": 4777,
+					"language": "th",
+					"title": "เวน่อม 2",
+					"director": "",
+					"tagline": "",
+					"cast": "",
+					"storyline": "Tom Hardy นักแสดงชายชื่อดังดีกรีเสนอชื่อเข้าชิง Academy Award จะกลับมารับบท Eddie Brock รวมไปถึง Michelle Williams จะกลับมารับบทคนรักด้วยเช่นกัน นอกจากนี้ในภาค 2 จะเป็นการเปิดตัวอย่างเป็นทางการของ 2 นักแสดงใหม่อย่าง Woody Harrelson และ Naomie Harris ที่จะมารับบท 2 วายร้ายอย่าง Carnage และ Shriek"
+				}
+			],
+			"tags": [],
+			"videos": [
+				{
+					"url": "https://youtu.be/_s4qXyZOJSQ",
+					"source": "#0",
+					"kind": "Teaser",
+					"language": "en"
+				}
+			],
+			"images": [
+				{
+					"id": 30915,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/01/69f1d2b1ba77fb4a3eb6424dc4a85ba53945288b.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=f96ad1ac5e377902649042ea03d61f102bcf04fae2a40e3772f07e18469c93fc",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/01/69f1d2b1ba77fb4a3eb6424dc4a85ba53945288b-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=a39f1c7c488c46c276964f2a67d690c92b8bb80dafbedf834d07c8326b0cbbad",
+					"favs": 0
+				},
+				{
+					"id": 34620,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/09/9825b73ea90219a805d6a4b6b572aebc493c323d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=842d480063aeddd37efe128ca38c58773feb3101ac7c19b2d858361294757691",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/09/9825b73ea90219a805d6a4b6b572aebc493c323d-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=96b6006cdbdd9c34a87e22afe27a707dd138037fbf03a0b2c02a07e222b2314d",
+					"favs": 0
+				},
+				{
+					"id": 34619,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/09/82dc6b0fd4406a0367824cdeeb26fa3c3c303615.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=f089026e910df9caabe37d389aa62d352218d4c3780d7434ce3259ff689c70eb",
+					"type": "Backdrop",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/09/82dc6b0fd4406a0367824cdeeb26fa3c3c303615-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=07fc93e2456cbf7f4156018acf8dc52352abb3346945d025f13cb448888d1ca4",
+					"favs": 0
+				}
+			],
+			"collections": [],
+			"watches": 0,
+			"duration": 0,
+			"active_screens": 0,
+			"vote_score": { "avg": 0, "score": 0, "total": 0 },
+			"fav_movie": { "star": false, "follow": false, "watched": false },
+			"stars": 0
+		},
+		{
+			"id": 19860,
+			"title": "Venom: Let There Be Carnage",
+			"language": "-",
+			"release_date": "2021-06-24",
+			"details": [
+				{
+					"id": 5133,
+					"language": "th",
+					"title": "Venom: Let There Be Carnage",
+					"director": "Andy Serkis",
+					"tagline": "",
+					"cast": "Michelle Williams, Woody Harrelson, Tom Hardy",
+					"storyline": "ติดตามเรื่องย่อไทยได้เร็วๆ นี้"
+				}
+			],
+			"tags": null,
+			"videos": [
+				{
+					"url": "https://youtu.be/ebish97e8rY",
+					"source": "#S",
+					"kind": "Trailer",
+					"language": "th"
+				}
+			],
+			"images": [
+				{
+					"id": 34077,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/08/4a92341db4fe465af5b6f3d1cbe04c4dcb18c2f3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=814541b1f5400913ba0108e57b7905a80f1b34fc031e07222e2b56484145fda2",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/08/4a92341db4fe465af5b6f3d1cbe04c4dcb18c2f3-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=9f3e7db4b3b72a79c1e396d6c794a8cf29565738ca4a1cbd480b31f5561e1b25",
+					"favs": 0
+				},
+				{
+					"id": 34536,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/09/68b49c68567a2f58adb62c12dcc47387df7a4faf.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=35b71b7d5a8c9e30a28fbf9e174239af37ed2cd223d747af42b094ec0d605d5e",
+					"type": "Backdrop",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/09/68b49c68567a2f58adb62c12dcc47387df7a4faf-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094348Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=c46ad8799e775b01a9cfab3deccc06dfbfc4c4f987099a9b22287d39f1049c63",
+					"favs": 0
+				}
+			],
+			"collections": [],
+			"watches": 0,
+			"duration": 0,
+			"active_screens": 0,
+			"vote_score": { "avg": 0, "score": 0, "total": 0 },
+			"fav_movie": { "star": false, "follow": false, "watched": false },
+			"stars": 0
+		},
+		{
+			"id": 19493,
+			"title": "The Conjuring: The Devil Made Me Do It",
+			"language": "en",
+			"release_date": "2021-06-03",
+			"details": [
+				{
+					"id": 4692,
+					"language": "en",
+					"title": "The Conjuring: The Devil Made Me Do It",
+					"director": "Michael Chaves",
+					"tagline": "",
+					"cast": "Patrick Wilson, Vera Farmiga",
+					"storyline": "A chilling story of terror, murder and unknown evil that shocked even experienced real-life paranormal investigators Ed and Lorraine Warren. One of the most sensational cases from their files, it starts with a fight for the soul of a young boy, then takes them beyond anything they’d ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense."
+				},
+				{
+					"id": 4691,
+					"language": "th",
+					"title": "The Conjuring: The Devil Made Me Do It",
+					"director": "Michael Chaves",
+					"tagline": "",
+					"cast": "Vera Farmiga, Patrick Wilson, Ronnie Gene Blevins",
+					"storyline": "ติดตามเรื่องย่อเร็วๆ นี้"
+				}
+			],
+			"tags": [],
+			"videos": [
+				{
+					"url": "https://youtu.be/ebish97e8rY",
+					"source": "#S",
+					"kind": "Trailer",
+					"language": "th"
+				},
+				{
+					"url": "https://youtu.be/FD3_vV1P3Qs",
+					"source": "#1",
+					"kind": "Trailer",
+					"language": "en"
+				}
+			],
+			"images": [
+				{
+					"id": 30072,
+					"url": "https://showtimesth.s3.amazonaws.com/2019/12/a4066ea7d744bad2a1b9e2dcbd8b32f1d84ee0a4.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=5ce80bb8667f0d29a17d996688b268b3722d41afce820a43b67dbfe88013f659",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2019/12/a4066ea7d744bad2a1b9e2dcbd8b32f1d84ee0a4-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=32e5e49555542a24d287a3d86b7e6b97c4e817e64ebd14100d97f3262fcade26",
+					"favs": 0
+				},
+				{
+					"id": 33414,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/9e2364743071e4ed869a75d0326b07c101e72017.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=ef8463255c8e6090d41c8a66b32c7116ee07838f84501e2c08f80ee85d351b58",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/9e2364743071e4ed869a75d0326b07c101e72017-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=a036301897532adb16637212eda4261f13b260bf250e3fddc867be090f7b4d6f",
+					"favs": 0
+				},
+				{
+					"id": 33415,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/e40c78b1a808df76bec0a3b6e97fd882b28119af.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=f4157d38a258e8b6428386aec6bda15685fc0869e2c65ed660e8fc168a03cddc",
+					"type": "Backdrop",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/e40c78b1a808df76bec0a3b6e97fd882b28119af-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=9216f88b0bc4dbd4372849732d77218644a1bbb8c1ac6937de83134d95f68446",
+					"favs": 0
+				}
+			],
+			"collections": [
+				{
+					"id": 40,
+					"name": "The Conjuring Universe",
+					"slug": "the-conjuring-universe",
+					"movies": [19493, 17593, 16537, 12280, 11242, 137, 16567]
+				}
+			],
+			"watches": 0,
+			"duration": 0,
+			"active_screens": 0,
+			"vote_score": { "avg": 0, "score": 0, "total": 0 },
+			"fav_movie": { "star": false, "follow": false, "watched": false },
+			"stars": 0
+		},
+		{
+			"id": 6030,
+			"title": "Infinite",
+			"language": "en",
+			"release_date": "2021-05-27",
+			"details": [
+				{
+					"id": 4886,
+					"language": "en",
+					"title": "Infinite",
+					"director": "Antoine Fuqua",
+					"tagline": "",
+					"cast": "Mark Wahlberg, Dylan O'Brien, Rupert Friend, Chiwetel Ejiofor, Sophie Cookson, Toby Jones, Jóhannes Haukur Jóhannesson, Jason Mantzoukas, Tom Hughes",
+					"storyline": "A troubled young man haunted by memories of two past lives stumbles upon the centuries-old secret society of similar individuals and dares to join their ranks."
+				}
+			],
+			"tags": [],
+			"videos": [],
+			"images": [
+				{
+					"id": 33981,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/08/cbb20b394634cea8e1a0533287cfdde143ccfff6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=cffe5931b4a228f58de24b29c674ed3ae833cb3db960534f410bc992bbc07afd",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/08/cbb20b394634cea8e1a0533287cfdde143ccfff6-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=4d1af1d2b4f4fe89d482fde813e2a49737e2635c3dbfa910618ca246fca3ddbc",
+					"favs": 0
+				}
+			],
+			"collections": [],
+			"watches": 0,
+			"duration": 0,
+			"active_screens": 0,
+			"vote_score": { "avg": 0, "score": 0, "total": 0 },
+			"fav_movie": { "star": false, "follow": false, "watched": false },
+			"stars": 0
+		},
+		{
+			"id": 19591,
+			"title": "Cruella",
+			"language": "en",
+			"release_date": "2021-05-27",
+			"details": [
+				{
+					"id": 4780,
+					"language": "th",
+					"title": "Cruella",
+					"director": "Craig Gillespie",
+					"tagline": "",
+					"cast": "Emma Stone, Emma Thompson, Paul Walter Hauser",
+					"storyline": "Cruella : หนัง Live-Action ว่าด้วยตัวร้ายแฟชั่นนิสต้าสุดแสบจาก 101 Dalmatians ได้นักแสดงสาวที่หน้าเหมือนเป๊ะอย่าง เอ็มม่า สโตน มารับบท เขียนบทโดย เคลลี่ มาร์เซล จาก Saving Mr. Banks สำหรับตัวละคร “ครูเอลล่า เดอ วิล” นั้นเป็นวายร้ายหญิงที่หมกมุ่นอยู่กับการจับตัวเจ้าหมาลายจุดใน 101 Dalmatians เป็นอย่างมาก เพื่อที่จะนำหนังลายจุดของมันมาทำเครื่องแต่งกายต่างๆนั่นเอง โดยก่อนหน้า “ครูเอลล่า เดอ วิล” เคยถูกทำเป็นหนังเวอร์ชั่นคนแสดงมาแล้วในปี 1996 โดยได้ เกลนน์ โคลส นักแสดงมือทองมารับบทนี้ไปด้วย"
+				},
+				{
+					"id": 4786,
+					"language": "en",
+					"title": "Cruella",
+					"director": "Craig Gillespie",
+					"tagline": "",
+					"cast": "Emma Stone, Emma Thompson, Paul Walter Hauser, Joel Fry, Emily Beecham, Kirby Howell-Baptiste, Chloé Booyens",
+					"storyline": "The evil exploits of Cruella de Vil, the villain from 101 Dalmatians."
+				}
+			],
+			"tags": [],
+			"videos": [
+				{
+					"url": "https://youtu.be/7FkfqTNm01w",
+					"source": "#S",
+					"kind": "Trailer",
+					"language": "th"
+				}
+			],
+			"images": [
+				{
+					"id": 34293,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/08/ee6f8f0f8c9f183f014d64a27044abe56b1f6d6c.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=bbf170bfe2c21b63c06c0513d7d8c7a359ef92f2a60253f60b9636b3918cbe63",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/08/ee6f8f0f8c9f183f014d64a27044abe56b1f6d6c-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=b348297657f0f528cfc70bff60692e8bd9ee6aebb886e1797a41770401f59019",
+					"favs": 0
+				},
+				{
+					"id": 33508,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/a048e75616ffe9be2bead693c243a702eac0d274.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=833ac42247cecb82cd3dace50a6a19002f40960ab2fbd58c367969bcd1c35b84",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/a048e75616ffe9be2bead693c243a702eac0d274-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=a9748010c87a37c2c85a639fde65cd1d7384b02f0d3b240d343e30aeff3cfd84",
+					"favs": 0
+				},
+				{
+					"id": 33509,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/65709892316aec98a036f60b680b52ad1861d955.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=818b7e46a7db2cabd3f177f744355588e81eac80ea982622cf35000bf8d7b986",
+					"type": "Backdrop",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/65709892316aec98a036f60b680b52ad1861d955-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=54b2ed1c84a300bf9936554068ce1531f8929bf480510929d93bd19702b2717b",
+					"favs": 0
+				}
+			],
+			"collections": [],
+			"watches": 0,
+			"duration": 0,
+			"active_screens": 0,
+			"vote_score": { "avg": 0, "score": 0, "total": 0 },
+			"fav_movie": { "star": false, "follow": false, "watched": false },
+			"stars": 0
+		},
+		{
+			"id": 18219,
+			"title": "Shang-Chi and the Legend of the Ten Rings",
+			"language": "en",
+			"release_date": "2021-05-06",
+			"details": [
+				{
+					"id": 4351,
+					"language": "th",
+					"title": "Shang Chi",
+					"director": "Destin Daniel Cretton",
+					"tagline": "",
+					"cast": "Tony Chiu-Wai Leung, Awkwafina ., Simu Liu",
+					"storyline": "Marvel Studios’ Shang-Chi and the Legend of the Ten Rings starring Simu Liu in the title role. Appearing alongside Liu will be Awkwafina in an undisclosed role and Tony Leung as the (real) Mandarin. Marvel Studios’ Shang-Chi and the Legend of the Ten Rings will be directed by Destin Daniel Cretton."
+				},
+				{
+					"id": 4350,
+					"language": "en",
+					"title": "Shang-Chi and the Legend of the Ten Rings",
+					"director": "Destin Daniel Cretton",
+					"tagline": "",
+					"cast": "Simu Liu, Awkwafina, Tony Leung Chiu-Wai",
+					"storyline": "The adventures of Shang-Chi, the Master of Kung Fu."
+				}
+			],
+			"tags": [],
+			"videos": [
+				{
+					"url": "https://youtu.be/ebish97e8rY",
+					"source": "#S",
+					"kind": "Trailer",
+					"language": "th"
+				}
+			],
+			"images": [
+				{
+					"id": 25211,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/c466de34331f70e701dea83af7b7f40724ff52e6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=d4884f2156c46f4d9856bf9cf7d893096dfb21d6f999b77d1f36b033b303e9be",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/c466de34331f70e701dea83af7b7f40724ff52e6-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=351ec24cb8fc680752ead48f0abf77344b3b4b4ef2926ff03f72bb99fa4d9efc",
+					"favs": 0
+				},
+				{
+					"id": 34292,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/08/25d70db7eecf008e932c0ad5ca11ead180cbc985.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=2ca9cecfc516cf2de31e05902192bab14dee60080833606743cfd5df40c41ecd",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/08/25d70db7eecf008e932c0ad5ca11ead180cbc985-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=85d28f014f7a5388a19daaf3dfbbde27bfeb1225b372d5f3bd0003e3c5fb2ea6",
+					"favs": 0
+				},
+				{
+					"id": 33507,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/170aa638bf57b57deaf465bddcf8611d06edcef2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=77d1c3f8fe0712de9cc07d2f47359310acbad15fc3defcb224da2fa62bcf4426",
+					"type": "Backdrop",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/170aa638bf57b57deaf465bddcf8611d06edcef2-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=bd663684d76063dbd9f8285a4162ffc466edd518569bed0ffd61e35230c2d44f",
+					"favs": 0
+				}
+			],
+			"collections": [
+				{
+					"id": 2,
+					"name": "Marvel Universe",
+					"slug": "marvel-universe",
+					"movies": [
+						19836,
+						18220,
+						18221,
+						18219,
+						18218,
+						18217,
+						18418,
+						17391,
+						17515,
+						10233,
+						10231,
+						15063,
+						14907,
+						10232,
+						10237,
+						10238,
+						12285,
+						10236,
+						10235,
+						10477,
+						10234,
+						5655,
+						113,
+						70,
+						5406,
+						5407,
+						16302,
+						18301,
+						5405,
+						5408,
+						16312,
+						18300,
+						18298,
+						18299
+					]
+				}
+			],
+			"watches": 0,
+			"duration": 0,
+			"active_screens": 0,
+			"vote_score": { "avg": 0, "score": 0, "total": 0 },
+			"fav_movie": { "star": false, "follow": false, "watched": false },
+			"stars": 0
+		},
+		{
+			"id": 18216,
+			"title": "A Quiet Place: Part II",
+			"language": "en",
+			"release_date": "2021-04-22",
+			"details": [
+				{
+					"id": 4296,
+					"language": "th",
+					"title": "ดินแดนไร้เสียง 2",
+					"director": "John Krasinski",
+					"tagline": "",
+					"cast": "Emily Blunt, Noah Jupe, Millicent Simmonds",
+					"storyline": "“เราจะได้เห็นการเดินหน้าเอาชีวิตรอดกันต่อไปของครอบครัวเดิมในภาคแรกและพวกเขาก็จะได้รู้ว่า พวกเขาไม่ใช่คนที่เหลือรอดเพียงกลุ่มเดียว เราจะได้รับคำตอบเกี่ยวกับเรื่องราวก่อนหน้านี้ที่ที่ทุกอย่างได้เริ่มเกิดขึ้นด้วย คุณกำลังจะได้เห็นอีกด้านหนึ่งของการเอาชีวิตรอดของเหล่ามนุษยชาติจากพวกอสูรกายเหล่านี้ในภาคต่อไป”"
+				},
+				{
+					"id": 4346,
+					"language": "en",
+					"title": "A Quiet Place Part II",
+					"director": "John Krasinski",
+					"tagline": "",
+					"cast": "Emily Blunt, Cillian Murphy, Millicent Simmonds, Noah Jupe, Djimon Hounsou, Wayne Duvall, Okieriete Onaodowan, Blake DeLong, Silas Pereira-Olson",
+					"storyline": "Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path."
+				}
+			],
+			"tags": [],
+			"videos": [
+				{
+					"url": "https://youtu.be/ke5yAz1Xb_Y",
+					"source": "#1 th-caption",
+					"kind": "Trailer",
+					"language": "en"
+				},
+				{
+					"url": "https://youtu.be/XEMwSdne6UE",
+					"source": "#1",
+					"kind": "Trailer",
+					"language": "en"
+				}
+			],
+			"images": [
+				{
+					"id": 33319,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/3446e16317340f517891721c4091adba6a5c59f7.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=ee44b44cac79ad39874cef7491cdf9c367a55bf57394b2f596011f529443a6d2",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/3446e16317340f517891721c4091adba6a5c59f7-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=58070111e8f588af092f0d76caa22fe0b47431ee40a3c29b93f27819cb9fc377",
+					"favs": 0
+				},
+				{
+					"id": 31795,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/03/8e83d75947dfefede6c1bfb1f68b3c7882dd6fe8.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=6691ca04930d3abd82ebd650f225e216effb9cf7034d7e28e7ac3b80a1913fdf",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/03/8e83d75947dfefede6c1bfb1f68b3c7882dd6fe8-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=f8f68ca6abf3cb5b2fbc7f430dcf273983773122f4de876627bc2cb57027430e",
+					"favs": 0
+				},
+				{
+					"id": 31782,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/07/ace5e0f6df4c4ab88bdc47579b72aa12636455b5.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=537cfaf6bd764d86f3d8ae85d4b772a9dcd5a2c182d58e61ed36db1da62852be",
+					"type": "Backdrop",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/07/ace5e0f6df4c4ab88bdc47579b72aa12636455b5-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=965629b166563fd5fe50f011bf497b953e54edad6c604b337ece06b172a7a4b6",
+					"favs": 0
+				}
+			],
+			"collections": [],
+			"watches": 0,
+			"duration": 97,
+			"active_screens": 0,
+			"vote_score": { "avg": 0, "score": 0, "total": 0 },
+			"fav_movie": { "star": false, "follow": false, "watched": false },
+			"stars": 0
+		},
+		{
+			"id": 19532,
+			"title": "Monster Hunter",
+			"language": "en",
+			"release_date": "2021-04-13",
+			"details": [
+				{
+					"id": 5049,
+					"language": "th",
+					"title": "Monster Hunter",
+					"director": "Paul W.S. Anderson",
+					"tagline": "",
+					"cast": "Milla Jovovich, Tony Jaa, Ron Perlman",
+					"storyline": "Artemis เธอคือหัวหน้าทีมทหารชั้นยอดแห่งสหประชาชาติ ผู้ที่ถูกส่งตัวผ่านแกนวาร์ปมาสู่โลกใหม่ที่เต็มไปด้วยอสูรกายยักษ์ และเพื่อที่จะหาทางกลับบ้าน Artemis และทีมทหารชั้นยอดของเธอต้องเผชิญหน้าและทำงานร่วมกับเจ้าถิ่นอย่าง The Hunter นักรบปริศนาผู้มีทักษะพิเศษเพื่อเอาตัวรอดในโลกแห่งนี้ครอบครองอยู่"
+				},
+				{
+					"id": 4716,
+					"language": "en",
+					"title": "Monster Hunter",
+					"director": "Paul W.S. Anderson",
+					"tagline": "",
+					"cast": "Milla Jovovich, T.I., Ron Perlman, Diego Boneta, Tony Jaa",
+					"storyline": "When Lt. Artemis and her loyal soldiers are transported to a new world, they engage in a desperate battle for survival against enormous enemies with incredible powers. Feature film based on the video game by Capcom.\nCredit:imdb"
+				}
+			],
+			"tags": [],
+			"videos": [
+				{
+					"url": "https://youtu.be/ebish97e8rY",
+					"source": "#S",
+					"kind": "Trailer",
+					"language": "th"
+				}
+			],
+			"images": [
+				{
+					"id": 30234,
+					"url": "https://showtimesth.s3.amazonaws.com/2019/12/0f05f87c48e24137fefa7f808f146115fe3a677c.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=a580a9e7b07d0668db6768a2c4b24ee12942ce61821867430cbac033f43bcbef",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2019/12/0f05f87c48e24137fefa7f808f146115fe3a677c-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=ddbf6a57ac4923937699edc1a6500536dd6d25e65e93dbf89f09068313f370d6",
+					"favs": 0
+				},
+				{
+					"id": 34075,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/08/11464863a0ba8f8750eb04002abe0c3ed782cb29.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=ae8fe6fa2fa4ee3e7bfc83d8ea6c8300d9cdfe38b8c4493591f50f782e01e154",
+					"type": "Poster",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/08/11464863a0ba8f8750eb04002abe0c3ed782cb29-thumbnail-185x278-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=edee522cc1623759e44854a629ecd6c351c0e154949b2da2067fe7b2309e0894",
+					"favs": 0
+				},
+				{
+					"id": 34076,
+					"url": "https://showtimesth.s3.amazonaws.com/2020/08/4a4054543825bea969a5f4b269d8893b1ff69384.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=ad413dc2cc9ca6ce0f5d6dad58e9cd239bc745558ef30e74283f803617f1dc8e",
+					"type": "Backdrop",
+					"thumbnail": "https://showtimesth.s3.amazonaws.com/_s_/2020/08/4a4054543825bea969a5f4b269d8893b1ff69384-thumbnail-780x439-85.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJRS5DOPJNJGKH63A%2F20200921%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20200921T094349Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=4c8b20d4b5a2ed4ea5920e8c40b43680c9a4d2315a46b498650bceddba45c8c4",
+					"favs": 0
+				}
+			],
+			"collections": [],
+			"watches": 0,
+			"duration": 0,
+			"active_screens": 0,
+			"vote_score": { "avg": 0, "score": 0, "total": 0 },
+			"fav_movie": { "star": false, "follow": false, "watched": false },
+			"stars": 0
+		}
+	]
+}
