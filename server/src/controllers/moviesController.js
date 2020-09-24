@@ -1,6 +1,5 @@
 import fs from 'fs'
 import { isNotNull, isNotNaN } from "../utils/functions"
-import { body, validationResult } from 'express-validator';
 //utils 
 const readMoviesJson = (func) => fs.readFile(process.cwd() + "/movies.json", 'utf8', func)
 const handleError = (res) => res.status('400').json({
@@ -56,10 +55,47 @@ const showMovie = async (req, res) => {
 
 
 const editMovie = async (req, res) => {
-    console.log(req.body, req.params.movieId)
-    return res.status(200).json({
-        message: req.body
-    })
+    readMoviesJson((err, data) => {
+        if (!err) {
+            let movies = JSON.parse(data);
+            let movie = findMovie(movies, req.params.movieId)
+            let index = movies.results.findIndex((movie) => movie.id === req.params.movieId);
+            if (!movie) {
+                return handleError(res)
+            }
+            movie = {
+                ...movie,
+                title: req.body.title,
+                details: [
+                    {
+                        cast: req.body.cast || "",
+                        director: req.body.director,
+                        storyline: req.body.director || "",
+                    }, ...movie.details.slice(1)],
+                images: [
+                    {
+                        url: req.body.url
+                    },
+                    ...movie.images.slice(1)
+                ],
+                videos: [{ url: req.body.trailer }, ...movie.videos]
+            }
+            movies.results = [
+                ...movies.results.slice(0, index),
+                movie,
+                ...movies.results.slice(index + 1)
+            ]
+
+            fs.writeFile(`./files/${Date.now()}.txt`, movies, 'utf8', function (err) {
+                if (err) return console.log(err);
+            });
+
+            return res.status(200).json({
+                movie
+            })
+        }
+        return handleError(res)
+    });
 }
 
 
