@@ -14,7 +14,6 @@ function updateMovieObject(value) {
         subscribe(listener) {
             subscribers.push(listener)
             return (subscriber) => {
-                console.log(subscriber)
                 const index = subscribers.indexOf(subscriber)
                 if (index !== -1) {
                     subscribers.splice(index, 1)

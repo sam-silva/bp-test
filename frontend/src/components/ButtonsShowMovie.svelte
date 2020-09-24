@@ -10,11 +10,9 @@
 
     async function saveUpdates() {
         inputErrorStore.set(true);
-        console.log(movieId, $updateMovieStore);
         const response = await axios.put(`movies/${movieId}`, $updateMovieStore);
 
         inputErrorStore.set(false);
-        console.log(response);
         if (response.data) {
             console.log(response.data);
         }

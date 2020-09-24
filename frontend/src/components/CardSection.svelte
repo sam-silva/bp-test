@@ -7,7 +7,6 @@
     async function getMovies() {
         const response = await axios.get(`movies`);
         if (response && response.data && response.data && response.data.movies) {
-            console.log(response.data.movies.results);
             movies.set(response.data.movies.results);
             return response.data.results;
         }
